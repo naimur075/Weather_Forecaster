@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: OstrichSans-Heavy
+font link: https://www.fontsquirrel.com/fonts/ostrich-sans
+font author: Tyler Finck
+font author site: https://www.tylerfinck.com
+
+
+icon designer: Mateo Zlatar
+icon designer link: /mateozlatar
+        
+
+fontColor: {"hex":"#D7F9FF"}
+bgColor: {"hex":"#131214"}
+iconColor: {"hex":"#D7F9FF"}
+
+      
